@@ -13,3 +13,9 @@ This table suggests the reason to how long to visit the country<br>
 | USA | Developed and rich | 20 |
 | Israel | To learn technology | 25 |
 | Canada | Serene places | 15 |
+
+----
+
+# Funny Quotes
+>Why can’t you trust an atom? Because they make up everything.
+>Can February march? No, but April may.
