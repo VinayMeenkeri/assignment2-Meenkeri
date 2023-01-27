@@ -9,3 +9,7 @@ I Like Cricket because it is the most **entertaining** sport and it gives thrill
 1. K L Rahul
 2. Virat Kohli
 3. Jadeja
+
+* Pakistan
+* Australia
+* New Zealand
