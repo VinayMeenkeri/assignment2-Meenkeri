@@ -21,3 +21,17 @@ This table suggests the reason to how long to visit the country<br>
 >
 
 >Can February march? No, but April may. *Olleavnu*
+
+---
+# Codefencing
+
+[Can I set subject/content of email using mailto:?](https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto)
+
+
+```
+
+<a href="mailto:someone@yoursite.com?cc=someoneelse@theirsite.com, another@thatsite.com, me@mysite.com&bcc=lastperson@theirsite.com&subject=Big%20News&body=Body-goes-here">Email Us</a>
+
+```
+
+[CSS site link](https://css-tricks.com/snippets/html/mailto-links/)
