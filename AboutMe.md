@@ -8,7 +8,7 @@ I am currently studying in Northwest Missouri State University located in Maryvi
 This table suggests the reason to how long to visit the country<br>
 |Name of the Country | Reason | How many days to spend |
 |:---:|:---:|:---: |
-| India | T | T |
-| USA | F | F |
-| Israel | T | F |
-| Canada | F | F |
+| India | Its diverse and Beautiful | 30 |
+| USA | Developed and rich | 20 |
+| Israel | To learn technology | 25 |
+| Canada | Serene places | 15 |
